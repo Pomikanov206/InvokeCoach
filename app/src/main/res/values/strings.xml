@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Invoke Coach</string>
+    <string name="hero">Invoker image. Hero!</string>
+    <string name="skill">Skill image.</string>
+    <string name="quas">Invoker`s Quas.</string>
+    <string name="wex">Invoker`s Wex.</string>
+    <string name="exort">Invoker`s Exort.</string>
+    <string name="invoke">Invoker`s Invoke.</string>
+</resources>
